@@ -1,0 +1,7 @@
+{
+  "name": "쇼츠 크리에이터",
+  "description": "AI 기반의 고성능 숏폼 영상 제작 스튜디오입니다. 대본부터 나레이션, 스토리보드까지 한 번에 생성하세요.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
